@@ -55,6 +55,7 @@
 		$datedebut 	= 		$_POST['datedebut'];
 		$datefin 	= 		$_POST['datefin'];
 		$email 		= 		$_POST['email'];
+		$email 		= 		$_POST['email'];
 
 		// Send Elements
 
